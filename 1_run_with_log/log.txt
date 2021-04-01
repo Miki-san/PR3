@@ -1,0 +1,2 @@
+<class 'ZeroDivisionError'> division by zero in function named "func"
+	[<FrameSummary file D:\Python_HM\1_run_with_log\run_with_log.py, line 7 in run_with_log>, <FrameSummary file D:\Python_HM\1_run_with_log\main.py, line 5 in func>]
